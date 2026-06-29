@@ -1,0 +1,5 @@
+1. No compartir datos personales
+2. Usar contraseñas seguras
+3. Activar autenticación en dos pasos
+4. Controlar accesos
+5. Usar permisos por roles

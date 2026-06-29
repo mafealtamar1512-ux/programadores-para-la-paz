@@ -1,0 +1,3 @@
+La ruta POST /reportes permite enviar información al servidor y guardar los reportes en un array.
+
+La ruta GET /reportes permite consultar y mostrar todos los reportes registrados mientras el servidor está encendido.

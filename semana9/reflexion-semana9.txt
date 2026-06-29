@@ -1,0 +1,8 @@
+Es importante que las plataformas digitales funcionen de manera estable y segura porque muchas personas dependen de ellas para comunicarse y acceder a información.
+Si un servidor falla, la comunidad puede quedarse sin servicio y perder confianza en la plataforma.
+La estabilidad permite que el sistema funcione sin interrupciones constantes.
+La seguridad protege la información de los usuarios y evita ataques o pérdidas de datos.
+Los logs ayudan a identificar errores y entender el comportamiento del sistema.
+El monitoreo permite detectar fallas antes de que afecten a los usuarios.
+Las copias de seguridad ayudan a recuperar información en caso de problemas.
+En general, un servidor confiable mejora la experiencia y la confianza de la comunidad.

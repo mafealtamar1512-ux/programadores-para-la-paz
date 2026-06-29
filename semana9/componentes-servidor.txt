@@ -1,0 +1,14 @@
+Sistema operativo:
+Es el sistema donde se ejecuta el servidor (Windows, Linux o macOS). Permite que Node.js funcione correctamente.
+
+Node.js:
+Es un entorno que permite ejecutar JavaScript en el servidor, es decir, fuera del navegador.
+
+Aplicación server.js:
+Es el archivo principal donde se define el servidor, las rutas y las respuestas a las solicitudes.
+
+Puerto:
+Es el punto donde el servidor escucha las solicitudes. En este caso se usa el puerto 3000.
+
+Logs:
+Son registros del sistema que muestran lo que está ocurriendo en el servidor, como errores o eventos.

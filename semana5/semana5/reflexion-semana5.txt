@@ -1,0 +1,8 @@
+Las APIs ayudan a que las comunidades compartan información de manera organizada.
+Permiten enviar reportes, alertas y datos entre diferentes plataformas.
+También ayudan a que la información llegue a las personas correctas.
+Una API facilita la comunicación entre usuarios y sistemas digitales.
+Permite registrar información importante para la comunidad.
+Ayuda a mejorar la toma de decisiones con datos organizados.
+También evita que la información se pierda o se comparta sin control.
+Por eso las APIs son importantes para crear comunidades digitales eficientes.

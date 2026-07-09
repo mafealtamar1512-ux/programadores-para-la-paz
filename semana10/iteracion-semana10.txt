@@ -1,0 +1,7 @@
+Las dos tareas que realizaría primero serían registrar una incidencia y consultar los reportes, porque son las funciones principales para que la comunidad pueda informar problemas y hacer seguimiento.
+
+Para mí, una tarea está terminada cuando:
+
+- Funciona correctamente.
+- Ha sido probada sin errores.
+- Quedó registrada y guardada en GitHub.
